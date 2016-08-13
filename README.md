@@ -1,17 +1,6 @@
 # lib16 Array Utilities
 Some array utility functions not only for lib16.
 
-## Dependency Information
-
-```java
-<dependency>
-    <groupId>com.lib16</groupId>
-    <artifactId>array-utils</artifactId>
-    <version>[1.0,2)</version>
-</dependency>
-```
-See also http://search.maven.org/#artifactdetails|com.lib16|array-utils|1.0|jar
-
 ## Basic Usage
 ### The `Arrays` class
 ```java

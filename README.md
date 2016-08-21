@@ -90,9 +90,9 @@ Arrays2D.shuffle(array, random);             // 2, 7, 1
                                              // 8, 3, 6
 ```
 ```java
-Arrays2D.shuffle(array, random, 1, 0, 3, 2); // 2, 7, 1
-                                             // 9, 5, 4
-                                             // 8, 3, 6
+Arrays2D.shuffle(array, random, 1, 0, 3, 2); // 1, 3, 6
+                                             // 4, 5, 2
+                                             // 7, 8, 9
 ```
 ```java
 Arrays2D.swap(array, 1, 0, 2, 2);            // 1, 9, 3
